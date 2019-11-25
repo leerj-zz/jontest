@@ -10,12 +10,11 @@ Now we will add some changes:
 We needed to add some more fodder to the mix.
 
 ```json
-
 add some
 blah
 blah
-
 ```
+
 # writing in an agile environment
 
 If you want 
